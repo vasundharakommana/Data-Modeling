@@ -1,0 +1,4 @@
+UserId,Name,MobileNo,EmailID,DeliveryAddress,PaymentDetails
+1,John Doe,1234567890,johndoe@gmail.com,"123 Main Street, Anytown, USA, 12345", Credit Card
+2,Jane Smith,9876543210,janesmith@yahoo.com,"456 Elm Avenue, Springfield, USA, 54321",PayPal
+3,Alice Johnson,1832729023,alicejohnson@lewis.com,"789 Oak Lane, Lakeside, USA, 67890",Debit Card

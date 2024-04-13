@@ -1,0 +1,4 @@
+ReviewID ,UserID,RestaurantID,Rating,Comments
+1,3,2,5,"Great food and service, will definitely come back!"
+2,1,3,4.5,"The pizza was delicious, but the salad was a bit small."
+3,2,1,3,"Sushi was fresh, but the service was slow"

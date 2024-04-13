@@ -1,0 +1,4 @@
+OrderID ,UserID,RestaurantID,ItemsOrdered,OrderStatus,DeliveryDetails
+1,3,2,"Cheeseburger, Fries, Soda",Pending,"232 Elm Avenue, Springfield, USA"
+2,1,3,"Margherita Pizza, Caesar Salad",In Progress,"123 Oak Street, Springfield, IL, 62701, USA"
+3,2,1,"Sushi Platter, Miso Soup, Green Tea",Delivered,"869 Oak Lane, Lakeside, USA"
